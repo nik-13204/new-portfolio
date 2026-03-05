@@ -51,7 +51,7 @@ Make sure you have Node.js (18+) or Bun installed.
 ```bash
 # clone the repo
 git clone https://github.com/<your-username>/new-portfolio.git
-cd code-canvas-main
+cd new-portfolio
 
 # install dependencies (npm, yarn, pnpm or bun)
 npm install

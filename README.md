@@ -99,6 +99,3 @@ Use the existing code style and follow TypeScript best practices.
 
 ---
 
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).

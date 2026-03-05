@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="14" fill="#0B0F19"/>
+
+  <!-- Left bracket -->
+  <path
+    d="M26 18 L18 32 L26 46"
+    fill="none"
+    stroke="#38BDF8"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Right bracket -->
+  <path
+    d="M38 18 L46 32 L38 46"
+    fill="none"
+    stroke="#38BDF8"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Slash -->
+  <line
+    x1="34"
+    y1="18"
+    x2="30"
+    y2="46"
+    stroke="#22C55E"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+</svg>
